@@ -1,0 +1,130 @@
+Imports in /Users/moqi/code/dify/api/extensions:
+Module: abc
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/base_storage.py
+
+Module: azure.storage.blob
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/azure_storage.py
+
+Module: base64
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/google_storage.py
+
+Module: boto3
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/oci_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/s3_storage.py
+
+Module: botocore.client
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/s3_storage.py
+
+Module: botocore.exceptions
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/oci_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/s3_storage.py
+
+Module: celery
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_celery.py
+
+Module: collections.abc
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/aliyun_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/azure_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/base_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/google_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/local_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/oci_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/s3_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/tencent_storage.py
+
+Module: contextlib
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/aliyun_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/google_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/oci_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/s3_storage.py
+
+Module: core.extension.extension
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_code_based_extension.py
+
+Module: core.hosting_configuration
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_hosting_provider.py
+
+Module: datetime
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_celery.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/azure_storage.py
+
+Module: flask
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_celery.py
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_compress.py
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_hosting_provider.py
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_mail.py
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/aliyun_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/azure_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/base_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/google_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/local_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/oci_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/s3_storage.py
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/tencent_storage.py
+
+Module: flask_compress
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_compress.py
+
+Module: flask_login
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_login.py
+
+Module: flask_migrate
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_migrate.py
+
+Module: flask_sqlalchemy
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_database.py
+
+Module: google.cloud
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/google_storage.py
+
+Module: io
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/google_storage.py
+
+Module: json
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/google_storage.py
+
+Module: libs.smtp
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_mail.py
+
+Module: logging
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_mail.py
+
+Module: os
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/local_storage.py
+
+Module: oss2
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/aliyun_storage.py
+
+Module: qcloud_cos
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/tencent_storage.py
+
+Module: redis
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_redis.py
+
+Module: redis.connection
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_redis.py
+
+Module: resend
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_mail.py
+
+Module: sentry_sdk
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_sentry.py
+
+Module: sentry_sdk.integrations.celery
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_sentry.py
+
+Module: sentry_sdk.integrations.flask
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_sentry.py
+
+Module: shutil
+  Imported by: /Users/moqi/code/dify/api/extensions/storage/local_storage.py
+
+Module: typing
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_mail.py
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_storage.py
+
+Module: werkzeug.exceptions
+  Imported by: /Users/moqi/code/dify/api/extensions/ext_sentry.py
+
