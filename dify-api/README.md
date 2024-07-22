@@ -26,5 +26,8 @@
 以 configs 目录为例，运行命令为：
 
 ```shell
-python ast-import.py --ignore-local --ignore-relative --module-path /Users/moqi/code/dify/api/configs > dify-api-dependencies-configs.txt
+python ast-import.py \
+  --ignore-local \
+  --ignore-relative \
+  --module-path /Users/moqi/code/dify/api/configs > dify-api-dependencies-configs.txt
 ```
