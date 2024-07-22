@@ -28,12 +28,7 @@ def find_imports(path):
     return imports_dict
 
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Get Python module imports")
-    parser.add_argument("--module-path", type=str, required=True, help="Path to the Python module directory")
-    args = parser.parse_args()
-
-    directory_path = args.module_path
+def print_imports(directory_path):
     imports = find_imports(directory_path)
 
     print(f"Imports in {directory_path}:")
@@ -42,3 +37,11 @@ if __name__ == "__main__":
         for file in sorted(files):
             print(f"  Imported by: {file}")
         print()
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Get Python module imports")
+    parser.add_argument("--module-path", type=str, required=True, help="Path to the Python module directory")
+    args = parser.parse_args()
+
+    print_imports(args.module_path)
