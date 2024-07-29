@@ -29,5 +29,5 @@
 python ast-import.py \
   --ignore-local \
   --ignore-relative \
-  --module-path /Users/moqi/code/dify/api/configs > dify-api-dependencies-configs.txt
+  --path /Users/moqi/code/dify/api/configs > dify-api-dependencies-configs.txt
 ```
