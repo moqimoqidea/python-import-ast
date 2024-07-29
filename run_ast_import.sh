@@ -17,7 +17,7 @@ FILENAME="${BASENAME%.*}.txt"
 python ast-import.py \
   --ignore-local \
   --ignore-relative \
-  --path "$PYTHON_FILE_PATH" > "$FILENAME"
+  --path "$PYTHON_FILE_PATH" > dify-api-services/"$FILENAME"
 
 # 输出生成的文件名
 echo "Output written to $FILENAME"
