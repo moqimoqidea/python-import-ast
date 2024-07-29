@@ -1,0 +1,13 @@
+Imports in /Users/moqi/Code/dify/api/services/api_based_extension_service.py:
+Module: core.extension.api_based_extension_requestor
+  Imported by: /Users/moqi/Code/dify/api/services/api_based_extension_service.py
+
+Module: core.helper.encrypter
+  Imported by: /Users/moqi/Code/dify/api/services/api_based_extension_service.py
+
+Module: extensions.ext_database
+  Imported by: /Users/moqi/Code/dify/api/services/api_based_extension_service.py
+
+Module: models.api_based_extension
+  Imported by: /Users/moqi/Code/dify/api/services/api_based_extension_service.py
+

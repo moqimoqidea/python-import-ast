@@ -1,0 +1,49 @@
+Imports in /Users/moqi/Code/dify/api/services/file_service.py:
+Module: collections.abc
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: configs
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: core.file.upload_file_parser
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: core.rag.extractor.extract_processor
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: datetime
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: extensions.ext_database
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: extensions.ext_storage
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: flask_login
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: hashlib
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: models.account
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: models.model
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: services.errors.file
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: typing
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: uuid
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: werkzeug.datastructures
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+
+Module: werkzeug.exceptions
+  Imported by: /Users/moqi/Code/dify/api/services/file_service.py
+

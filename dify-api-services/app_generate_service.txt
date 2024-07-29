@@ -1,0 +1,37 @@
+Imports in /Users/moqi/Code/dify/api/services/app_generate_service.py:
+Module: collections.abc
+  Imported by: /Users/moqi/Code/dify/api/services/app_generate_service.py
+
+Module: configs
+  Imported by: /Users/moqi/Code/dify/api/services/app_generate_service.py
+
+Module: core.app.apps.advanced_chat.app_generator
+  Imported by: /Users/moqi/Code/dify/api/services/app_generate_service.py
+
+Module: core.app.apps.agent_chat.app_generator
+  Imported by: /Users/moqi/Code/dify/api/services/app_generate_service.py
+
+Module: core.app.apps.chat.app_generator
+  Imported by: /Users/moqi/Code/dify/api/services/app_generate_service.py
+
+Module: core.app.apps.completion.app_generator
+  Imported by: /Users/moqi/Code/dify/api/services/app_generate_service.py
+
+Module: core.app.apps.workflow.app_generator
+  Imported by: /Users/moqi/Code/dify/api/services/app_generate_service.py
+
+Module: core.app.entities.app_invoke_entities
+  Imported by: /Users/moqi/Code/dify/api/services/app_generate_service.py
+
+Module: core.app.features.rate_limiting
+  Imported by: /Users/moqi/Code/dify/api/services/app_generate_service.py
+
+Module: models.model
+  Imported by: /Users/moqi/Code/dify/api/services/app_generate_service.py
+
+Module: services.workflow_service
+  Imported by: /Users/moqi/Code/dify/api/services/app_generate_service.py
+
+Module: typing
+  Imported by: /Users/moqi/Code/dify/api/services/app_generate_service.py
+

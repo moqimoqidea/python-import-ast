@@ -1,0 +1,70 @@
+Imports in /Users/moqi/Code/dify/api/services/app_service.py:
+Module: configs
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: constants.model_template
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: core.agent.entities
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: core.app.features.rate_limiting
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: core.errors.error
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: core.model_manager
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: core.model_runtime.entities.model_entities
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: core.model_runtime.model_providers.__base.large_language_model
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: core.tools.tool_manager
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: core.tools.utils.configuration
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: datetime
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: events.app_event
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: extensions.ext_database
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: flask_login
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: flask_sqlalchemy.pagination
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: json
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: logging
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: models.account
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: models.model
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: models.tools
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: services.tag_service
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: tasks.remove_app_and_related_data_task
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+
+Module: typing
+  Imported by: /Users/moqi/Code/dify/api/services/app_service.py
+

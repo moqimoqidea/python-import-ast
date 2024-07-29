@@ -1,0 +1,52 @@
+Imports in /Users/moqi/Code/dify/api/services/annotation_service.py:
+Module: datetime
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: extensions.ext_database
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: extensions.ext_redis
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: flask_login
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: models.model
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: pandas
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: services.feature_service
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: sqlalchemy
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: tasks.annotation.add_annotation_to_index_task
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: tasks.annotation.batch_import_annotations_task
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: tasks.annotation.delete_annotation_index_task
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: tasks.annotation.disable_annotation_reply_task
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: tasks.annotation.enable_annotation_reply_task
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: tasks.annotation.update_annotation_to_index_task
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: uuid
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: werkzeug.datastructures
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+
+Module: werkzeug.exceptions
+  Imported by: /Users/moqi/Code/dify/api/services/annotation_service.py
+

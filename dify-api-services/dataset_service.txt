@@ -1,0 +1,127 @@
+Imports in /Users/moqi/Code/dify/api/services/dataset_service.py:
+Module: configs
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: core.errors.error
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: core.model_manager
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: core.model_runtime.entities.model_entities
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: core.rag.datasource.keyword.keyword_factory
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: core.rag.models.document
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: core.rag.retrieval.retrival_methods
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: datetime
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: events.dataset_event
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: events.document_event
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: extensions.ext_database
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: extensions.ext_redis
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: flask_login
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: json
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: libs
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: logging
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: models.account
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: models.dataset
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: models.model
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: models.source
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: random
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: services.errors.account
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: services.errors.dataset
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: services.errors.document
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: services.errors.file
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: services.feature_service
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: services.tag_service
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: services.vector_service
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: sqlalchemy
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: tasks.clean_notion_document_task
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: tasks.deal_dataset_vector_index_task
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: tasks.delete_segment_from_index_task
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: tasks.disable_segment_from_index_task
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: tasks.document_indexing_task
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: tasks.document_indexing_update_task
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: tasks.duplicate_document_indexing_task
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: tasks.recover_document_indexing_task
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: tasks.retry_document_indexing_task
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: tasks.sync_website_document_indexing_task
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: time
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: typing
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+
+Module: uuid
+  Imported by: /Users/moqi/Code/dify/api/services/dataset_service.py
+

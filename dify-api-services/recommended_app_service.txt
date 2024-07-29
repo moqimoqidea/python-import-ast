@@ -1,0 +1,34 @@
+Imports in /Users/moqi/Code/dify/api/services/recommended_app_service.py:
+Module: configs
+  Imported by: /Users/moqi/Code/dify/api/services/recommended_app_service.py
+
+Module: constants.languages
+  Imported by: /Users/moqi/Code/dify/api/services/recommended_app_service.py
+
+Module: extensions.ext_database
+  Imported by: /Users/moqi/Code/dify/api/services/recommended_app_service.py
+
+Module: flask
+  Imported by: /Users/moqi/Code/dify/api/services/recommended_app_service.py
+
+Module: json
+  Imported by: /Users/moqi/Code/dify/api/services/recommended_app_service.py
+
+Module: logging
+  Imported by: /Users/moqi/Code/dify/api/services/recommended_app_service.py
+
+Module: models.model
+  Imported by: /Users/moqi/Code/dify/api/services/recommended_app_service.py
+
+Module: os
+  Imported by: /Users/moqi/Code/dify/api/services/recommended_app_service.py
+
+Module: requests
+  Imported by: /Users/moqi/Code/dify/api/services/recommended_app_service.py
+
+Module: services.app_dsl_service
+  Imported by: /Users/moqi/Code/dify/api/services/recommended_app_service.py
+
+Module: typing
+  Imported by: /Users/moqi/Code/dify/api/services/recommended_app_service.py
+
